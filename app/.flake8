@@ -3,9 +3,9 @@
 exclude =
     migrations,
     __pycache__,
-    app/app/asgi.py
-    app/app/settings.py
-    app/app/urls.py
-    app/app/wsgi.py
+    ./app/asgi.py
+    ./app/settings.py
+    ./app/urls.py
+    ./app/wsgi.py
     manage.py,
     settings.pyflake8
