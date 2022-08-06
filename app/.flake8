@@ -1,0 +1,11 @@
+
+[flake8]
+exclude =
+    migrations,
+    __pycache__,
+    ./app/asgi.py
+    ./app/settings.py
+    ./app/urls.py
+    ./app/wsgi.py
+    manage.py,
+    settings.pyflake8
