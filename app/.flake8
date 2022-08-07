@@ -7,5 +7,9 @@ exclude =
     ./app/settings.py
     ./app/urls.py
     ./app/wsgi.py
+    ./dogs/asgi.py
+    ./dogs/settings.py
+    ./dogs/urls.py
+    ./dogs/wsgi.py
     manage.py,
     settings.pyflake8
